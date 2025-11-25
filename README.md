@@ -1,4 +1,4 @@
-<p align="center"> <img src="/mnt/data/10b58eab-afa3-4953-8919-3787a7668f2f.png" width="200"> </p> <h1 align="center">🧩 SUDOKU – Proyecto Android Studio</h1> <p align="center"> Desarrollo de una práctica completa de un juego de Sudoku para Android. </p>
+<p align="center">  </p> <h1 align="center">🧩 SUDOKU – Proyecto Android Studio</h1> <p align="center"> Desarrollo de una práctica completa de un juego de Sudoku para Android. </p>
 📑 Índice
 
 📘 README – Practica Sudoku (Android Studio)
